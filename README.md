@@ -5,3 +5,14 @@ This project is demo for article for beginners about unit testing http://stokito
 
 You should use Maven to build project.
 Also I would like to recommend you edit code Intellij Idea.
+sdflskmsdkgkslfmsdfsf
+dsflksdfmsldflsdf
+"editor.fontSize": 14,
+    "editor.fontWeight": "797",
+    "editor.fontFamily": "Berlin Sans FB, 'Courier New', monospace",
+    "editor.tabSize": 5,
+    "files.autoSave": "onFocusChange",
+    "editor.cursorStyle": "underline",
+    
+    sdflsnskjdfnksjdfsf
+    
