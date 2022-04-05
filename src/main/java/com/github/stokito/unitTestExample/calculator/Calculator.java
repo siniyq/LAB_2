@@ -16,6 +16,9 @@ public class Calculator {
 
 	public int multiply(int a, int b) {
 		return a * b;
-	}///yuuyuy
+	}
+	public int pow(int a, int b){
+		return a^b;
+	}
 
 }
