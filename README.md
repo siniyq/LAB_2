@@ -14,6 +14,5 @@ dsflksdfmsldflsdf
     "files.autoSave": "onFocusChange",
     "editor.cursorStyle": "underline",
     
-    sad
-    2 laba
+    Изменил шрифт и размер кода, добавил в калькулятор возможность возводить числа в степень, изменил параметр автосохранения
     
