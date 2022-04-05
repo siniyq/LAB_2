@@ -15,4 +15,23 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
+	
+}
+{
+  "import Link from components/common/Link": {
+    "prefix": "gcl",
+    "body": "import Link from 'components/common/Link'"
+  },
+  "border test": {
+    "prefix": "b1",
+    "body": "border: '1px solid red',"
+  },
+  "border test2": {
+    "prefix": "b2",
+    "body": "border: '1px solid green',"
+  },
+  "border test3": {
+    "prefix": "b3",
+    "body": "border: '1px solid magenta',"
+  }
 }
