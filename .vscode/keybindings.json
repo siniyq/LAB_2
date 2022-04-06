@@ -1,0 +1,28 @@
+// Поместите настраиваемые сочетания клавиш в этот файл, чтобы переопределить сочетания клавиш по умолчанию.
+[
+{
+  "key": "`",
+  "command": "type",
+  "args": { "text": "public static void main(String[] args) {}" },
+  "when": "editorTextFocus"
+},
+{
+      "key": "ctrl+f","command": "actions.find"
+ },
+{
+      "key": "alt+left","command": "workbench.action.navigateBack"
+},
+{
+      "key": "alt+right", "command": ""
+ },
+ {
+      "key": "ctrl+1", "command": ""
+ },
+
+
+     
+
+
+
+
+]
