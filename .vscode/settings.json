@@ -4,7 +4,11 @@
     "editor.fontFamily": "Berlin Sans FB, 'Courier New', monospace",
     "editor.tabSize": 5,
     "editor.cursorStyle": "underline",
-     "files.autoSave": "onFocusChange"
+     "files.autoSave": "onFocusChange",
+     "java.format.settings.url": ".vscode/java-formatter.xml",
+     "[java]": {
+          "editor.insertSpaces": true
+     }
      
 
      
