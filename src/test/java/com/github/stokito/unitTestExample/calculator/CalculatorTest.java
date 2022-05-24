@@ -1,6 +1,6 @@
 package com.github.stokito.unitTestExample.calculator;
 
-import junit.framework.Assert;
+import org.junit.Assert;
 import org.junit.Test;
 
 public class CalculatorTest {
@@ -16,7 +16,7 @@ public class CalculatorTest {
 			Assert.fail();
 		}
 	}
-
+	//
 	@Test
 	public void testMinus() {
 		Calculator calculator = new Calculator();
